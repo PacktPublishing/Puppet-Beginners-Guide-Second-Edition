@@ -27,4 +27,4 @@ You'll need a reasonably modern computer system and access to the Internet. You 
 * [Puppet 2.7 Cookbook](https://www.packtpub.com/networking-and-servers/puppet-27-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849515382)
 
 * [Puppet 4 Essentials - Second Edition](https://www.packtpub.com/networking-and-servers/puppet-4-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785881107)
-
+ 
